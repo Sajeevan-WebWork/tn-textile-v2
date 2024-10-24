@@ -228,7 +228,7 @@
     },
     {
       "id": "5",
-      "fav": false,
+      "fav": true,
       "title": "Data Scientist",
       "companyName": "Data Analytics Corp.",
       "location": "On-site, Austin, TX",
